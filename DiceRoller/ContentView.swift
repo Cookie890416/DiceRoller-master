@@ -1,10 +1,4 @@
-//
-//  ContentView.swift
-//  DiceRoller
-//
-//  Created by 王瑋 on 2020/4/3.
-//  Copyright © 2020 王瑋. All rights reserved.
-//
+
 
 import SwiftUI
 
